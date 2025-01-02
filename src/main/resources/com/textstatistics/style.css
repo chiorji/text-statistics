@@ -1,0 +1,14 @@
+.view {
+    -fx-background: #4E5A6C;
+}
+
+.output-group {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+.text-area .content {
+    -fx-inner-control-background: #F9FBFC;
+    -fx-font-family: Consolas;
+    -fx-background-color: #F9FBFC;
+}
