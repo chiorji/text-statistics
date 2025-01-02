@@ -6,3 +6,5 @@ text that is typed in the text area, which are updated automatically and display
 - word count: total words in the textarea
 - longest word: word that has the longest sequence of characters
 - character length: total characters in the input
+
+![text-statistics](text-statistics.PNG)
